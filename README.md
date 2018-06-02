@@ -2,6 +2,9 @@
 
 ## Write what you learnt from CodeZilla with introduction to yourself!
 
+### [Erandra Jayasundara](https://github.com/chiCKson)
+Hey, I'm Erandra Jayasundara from Vavuniya Campus and I've started my FOSS from codezilla before that I didnt know how to use github LOL. Codezilla motivated me to learn and start projects on github. After all I think everyone become a winner by learning new things. Thank you Mozilla Club.
+
 ### [Binoj Ishara Batuwanthudawa](https://github.com/BinojBI) - SUSL 
 Hi, I'm Binoj Ishara Batuwanthudawa from SUSL and I'm also new to the FOSS. Talking about Codezilla hackathon this is a product hackathon which we can rarely see other than idea hackathons. Actually I learnt lot of things about NodeJs, Heroku and API things at first time by making twitter bot during this session. Thanks Mozilla Club give this oppotunity to me and hope to see this kind of events future as well.
 
